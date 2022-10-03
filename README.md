@@ -1,3 +1,6 @@
 # madagascar
-Phylogenetic trees and DAISIE objects 
+Phylogenetic trees, DAISIE objects and scripts
 From Michielsen et al. study
+
+Includes code to reproduce the main figures and 
+the main ERT analyses.
