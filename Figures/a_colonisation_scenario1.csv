@@ -1,0 +1,34 @@
+﻿Clade_name,Clade status,Bat,Extinct,Total species,Threatened species,Extinct species,MaxAge,Node used for colonisation time (CT),Mean age,Percentile 0.025,MINIMUM_MAXAGE,Percentile 0.975,Minimum age,Maximum age,Order,Index
+Afrosoricida,Endemic,No,No,34,6 (+1DD),3,No,Stem node,61.33,46.35,46.35,78.34,38.03,80,1,33
+Lemurs,Endemic,No,No,126,104 (+1NE+3DD),17,No,Stem node,49.54,42.53,42.53,57.6,39.35,65.2,9,32
+Myzopoda,Endemic,Yes,No,2,0,0,No,Stem node,49.34,43.16,43.16,57.26,40.62,64.6,17,31
+Nesomyinae,Endemic,No,No,31,7 (+1NE +3DD),3,No,Stem node,41.32,34.65,34.65,49.4,28.88,53.3,25,30
+Pipistrellus raceyi,Endemic,Yes,No,1,0 (+1DD),0,Yes,"Missing from tree, used Vespertilionidae crown as maximum CT",37.89,32.8,0,44.83,29.61,50.97,33,29
+Macronycteris cryptovalorona,Endemic,Yes,No,1,0 (+1NE),0,Yes,"Missing from tree, used family Hipposideridae crown as maximum CT",28.41,23.84,0,33.44,19.22,38.67,41,28
+Paremballonura,Endemic,Yes,No,2,0,0,No,Stem node,19.97,15.39,15.39,25.31,12.56,30.07,49,27
+Chaerephon leucogaster,Non endemic,Yes,No,1,0 (+1NE),0,Yes,"Missing from tree used, family Molossidae crown as maximum CT",18.28,14.35,0,23.26,12.85,30.44,57,26
+Paratriaenops,Endemic,Yes,No,3,1,1,No,Stem node,17.91,14.58,14.58,21.84,12.85,24.36,65,25
+Eupleridae,Endemic,No,No,9,6,2,No,Stem node,15.22,12.7,12.7,18.8,12.12,20.67,73,24
+Miniopterus,Endemic,Yes,No,12,0 (+3DD),0,Yes,"Poor resolution, used crown age of genus Miniopterus as maximum CT",9.51,7.19,0,12.31,6.31,14.36,81,23
+Pipistrellus hesperidus,Non endemic,Yes,No,1,0,0,No,"Single tip for species on tree, used tip age as maximum CT",7,4.8,4.8,9.37,2.02,11.87,89,22
+Taphozous mauritianus,Non endemic,Yes,No,1,0,0,No,"Single tip for species on tree, used tip age as maximum CT",6.01,3.44,3.44,9.53,2.2,11.53,97,21
+Tadarida fulminans,Non endemic,Yes,No,1,0,0,No,"Single tip for species on tree, used tip age as maximum CT",5.93,0.16,0.16,10.6,0.04,14.77,105,20
+Hippos,Endemic,No,Yes,3,0,3,Yes,Stem age of genus Hippopotamus as maximum,5.63,3.64,0,7.94,3,9.57,113,19
+Scotophilus marovaza + tandrefana,Endemic,Yes,No,2,0 (+1DD),0,No,Stem node,4.96,3.33,3.33,6.66,1.15,8.19,121,18
+Neoromicia bemainty,Endemic,Yes,No,1,0,0,No,Stem node,4.54,2.75,2.75,7,1.17,8.31,129,17
+Chaerephon jobimena,Endemic,Yes,No,1,0,0,No,Stem node,4.48,0.81,0.81,7.46,0.04,8.94,137,16
+Laephotis malagasyensis + robertsi,Endemic,Yes,No,2,1 (+1DD),0,No,Stem node,4.04,2.26,2.26,5.78,1.6,7.01,145,15
+Mops midas,Non endemic,Yes,No,1,0,0,No,"Single tip for species on tree, used tip age as maximum CT",3.98,0.24,0.24,6.34,0.01,7.29,153,14
+Scotophilus robustus,Endemic,Yes,No,1,0,0,No,Stem node,3.94,2.42,2.42,5.72,1.55,7.77,161,13
+Eidolon dupreanum,Endemic,Yes,No,1,1,0,No,Stem node,2.78,0.99,0.99,5.37,0.31,6.89,169,12
+Laephotis matroka,Endemic,Yes,No,1,0,0,No,Stem node,1.87,0.8,0.8,3.25,0.41,5.6,177,11
+Macronycteris besaoka + commersoni,Endemic,Yes,No,2,1,1,No,Stem node,1.77,0.16,0.16,3.46,0.03,4.6,185,10
+Otomops madagascariensis,Endemic,Yes,No,1,0,0,No,Stem node,1.74,0.53,0.53,3.02,0.12,3.73,193,9
+Coleura kibomalandy,Endemic,Yes,No,1,0 (+1DD),0,No,Stem node,1.65,0.68,0.68,3.02,0.36,3.61,201,8
+Myotis goudoti,Endemic,Yes,No,1,0,0,No,Stem node,1.44,0.55,0.55,2.67,0.3,3.31,209,7
+Triaenops menamena,Endemic,Yes,No,1,0 (+1DD),0,No,Stem node,1.29,0.2,0.2,2.53,0.03,3.3,217,6
+Rousettus madagascariensis,Endemic,Yes,No,1,1,0,No,Stem node,1.25,0.62,0.62,2.07,0.47,3,225,5
+Chaerephon atsinanana,Endemic,Yes,No,1,0,0,No,Stem node,1.1,0.19,0.19,2.24,0.05,3.28,233,4
+Mops leucostigma,Non endemic,Yes,No,1,0,0,No,"Single tip for species on tree, used tip age as maximum CT",0.74,0.2,0.2,1.52,0.09,1.94,241,3
+Mormopterus jugularis,Endemic,Yes,No,1,0,0,No,Stem node,0.58,0.1,0.1,1.49,0.02,2.31,249,2
+Pteropus rufus,Endemic,Yes,No,1,1,0,No,Stem node,0.31,0.08,0.08,0.65,0.02,0.95,257,1
