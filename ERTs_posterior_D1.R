@@ -1,5 +1,6 @@
 rm(list=ls())
 library(DAISIE)
+## the file below can be found in the Figures folder
 pars <- read.csv("best_pars_M26_posterior_1000.csv", header = T, sep = ',')
 ERTs <- NULL
 
